@@ -34,7 +34,7 @@ Always curious, always building — my projects reflect a mix of engineering rig
 
 ### 📊 Stats
 
-![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzanGaziYucel&show_icons=true&theme=gruvbox)
+![Ozan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzanGaziYucel&show_icons=true&theme=gruvbox&cache_seconds=1800)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
