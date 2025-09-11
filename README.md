@@ -1,10 +1,14 @@
 # 🤖 Ozan Gazi Yücel
 
-**`Electrical & Electronics Engineer | Robotics Engineering MSc`**
+**`Electrical & Electronics Engineer | Robotics Engineering MSc`**   
+**`Robot Tamer | Developer | Gamer`** <br>
 
-I’m an engineer with a solid foundation in Electrical & Electronics, currently pursuing my Master’s in Robotics Engineering. My work bridges hardware and software, focusing on intelligent systems, human–machine interaction, and automation. I enjoy tackling complex real-world problems — from low-level control and embedded systems to high-level robotics algorithms — and turning them into functional, reliable solutions.  
+I'm an engineer with a solid foundation in Electrical & Electronics, now pursuing my Master's in Robotics Engineering. My work bridges hardware and software — from embedded systems and control to high-level robotics algorithms — with a focus on intelligent systems, human–machine interaction, and automation.
 
-Always curious, always building — my projects reflect a mix of engineering rigor and creative problem-solving. Currently doing an internship on FMG (Force Myography) and using it to develop control and clinical projects.
+Currently working on Force Myography (FMG) to develop control strategies and clinical applications. Always curious, always building — I combine engineering rigor with creative problem-solving to push robotics forward.
+
+🎓 Studied Electrical & Electronics Engineering at the Middle East Technical University<br>
+👨‍💻 Studying Robotics at Aalborg University<br>
 
 ---
 
@@ -41,7 +45,7 @@ Always curious, always building — my projects reflect a mix of engineering rig
 
 <!--
 **OzanGaziYucel/OzanGaziYucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img height="30" src="https://cdn.dribbble.com/userupload/42508103/file/original-d31567adbe2833e2c32460dad7136711.gif"> <br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
