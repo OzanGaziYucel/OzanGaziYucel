@@ -1,7 +1,6 @@
 # 🤖 Ozan Gazi Yücel
 
 **`Electrical & Electronics Engineer | Robotics Engineering MSc`**   
-**`Robot Tamer | Developer | Gamer`** <br>
 
 I'm an engineer with a solid foundation in Electrical & Electronics, now pursuing my Master's in Robotics Engineering. My work bridges hardware and software — from embedded systems and control to high-level robotics algorithms — with a focus on intelligent systems, human–machine interaction, and automation.
 
