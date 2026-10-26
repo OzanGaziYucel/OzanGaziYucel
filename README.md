@@ -1,13 +1,11 @@
 # 🤖 Ozan Gazi Yücel
 
-**`Electrical & Electronics Engineer | Robotics Engineering MSc`**   
+**`Agentic AI Software Developer | Robotics Engineering MSc`**   
 
-I'm an engineer with a solid foundation in Electrical & Electronics, now pursuing my Master's in Robotics Engineering. My work bridges hardware and software — from embedded systems and control to high-level robotics algorithms — with a focus on intelligent systems, human–machine interaction, and automation.
-
-Currently working on Force Myography (FMG) to develop control strategies and clinical applications. Always curious, always building — I combine engineering rigor with creative problem-solving to push robotics forward.
+MSc in Robotics from Aalborg University, with a background in Electrical and Electronics Engineering from METU. Currently a Research Assistant at the Department of Electronic Systems, AAU. Specializing in wearable sensing, machine learning, and real-time signal processing. Hands-on experience with full-stack robotics development across ROS/ROS2, computer vision, and embedded systems. My work bridges hardware and software with a focus on intelligent systems, human–machine interaction, and automation. Currently working on Agentic AI to develop special agents for academic applications.
 
 🎓 Studied Electrical & Electronics Engineering at the Middle East Technical University<br>
-👨‍💻 Studying Robotics at Aalborg University<br>
+👨‍💻 Studied Robotics at Aalborg University<br>
 
 ---
 
